@@ -67,7 +67,7 @@
   ],
   "socials": [
     {
-      "social_name": "Eden Website",
+      "social_name": "Glory Website",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
       "social_url": "https://edenmiracleministries.org/"
     },
@@ -75,43 +75,25 @@
     {
       "social_name": "Tithe and Offerings",
       "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
-      "social_url": "https://edenmiracleministries.org/emc-giving/"
+      "social_url": "https://sites.google.com/view/tithega/home"
     },
-
+    
     {
-      "social_name": "Enquiries",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
-      "social_url": "https://edenmiracleministries.org/emc-enquiries/"
-    },
-
-    {
-      "social_name": "Eden Church Programme",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/website.png",
-      "social_url": "https://edenmiracleministries.org/emc-services/"
-    },
-
-
-    {
-      "social_name": "Eden Facebook",
-      "social_icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/icons/facebook.png",
-      "social_url": "https://www.facebook.com/edenmcm"
-    },
-    {
-      "social_name": "Eden Youtube",
+      "social_name": "GA Youtube",
       "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
-      "social_url": "https://www.youtube.com/c/EDENMIRACLEMINISTRIES"
+      "social_url": "https://www.youtube.com/channel/UCpkyYp4-HxhERFIQcfYYR2Q"
     },
 
     {
-      "social_name": "Resources",
-      "social_icon": "https://i.ibb.co/N1kL2p9/youtube.png",
-      "social_url": "https://edenmiracleministries.org/resources/"
+      "social_name": "GA Twitter",
+      "social_icon": "https://i.ibb.co/jZy90s3/twitter.png",
+      "social_url": "https://x.com/GloryAtmosphere"
     },
 
     {
-      "social_name": "Join Whatsapp Group",
+      "social_name": GA Whatsapp",
       "social_icon": "https://i.ibb.co/JqDwYc9/whatsapp.png",
-      "social_url": "https://www.youtube.com/c/EDENMIRACLEMINISTRIES"
+      "social_url": "https://wa.link/j9jdfs"
     }
   ]
 }
