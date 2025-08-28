@@ -1,10 +1,10 @@
 {
   "radio": [
     {
-      "radio_name": "EMC Radio ",
-      "radio_genre": "The Voice of Abundance",
-      "radio_url": "https://c22.radioboss.fm:18040/stream",
-      "radio_image_url": "https://i.ibb.co/p6K8Cpm1/emc-logo.jpg",
+      "radio_name": "GA Radio ",
+      "radio_genre": "Glory Atmosphere Radio",
+      "radio_url": "https://cast4.asurahosting.com/proxy/gloryat1/stream",
+      "radio_image_url": "https://i.ibb.co/Zy23K3R/ga-radio.jpg",
       "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
       "blur_radio_background": "true",
       "song_metadata": "true",
@@ -13,9 +13,9 @@
       "auto_play": "true"
     },
     {
-      "radio_name": "EMC Radio ",
+      "radio_name": "GA Radio ",
       "radio_genre": "The Voice of Abundance",
-      "radio_url": "https://c22.radioboss.fm:18040/stream",
+      "radio_url": "https://cast4.asurahosting.com/proxy/gloryat1/stream",
       "radio_image_url": "https://i.ibb.co/p6K8Cpm1/emc-logo.jpg",
       "background_image_url": "https://i.ibb.co/XDz6N86/mcfbackground.jpg",
       "blur_radio_background": "true",
